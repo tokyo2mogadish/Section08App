@@ -1,4 +1,8 @@
 #https://www.udemy.com/course/the-python-mega-course/learn/lecture/4775322#overview
+'''
+greska Failed to connect to github.com port 443 resena sa
+git config --global http.proxy http://smilojevic:Okoro13!!@192.168.11.5:8080
+'''
 class Bill:
     """
     Object that contains data about the bill, such as 
